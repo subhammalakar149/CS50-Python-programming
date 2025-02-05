@@ -1,3 +1,4 @@
+# sentimental-mario-less
 # Checking whether the user has input a positive integer between 1 and 8
 while True:
     try:
